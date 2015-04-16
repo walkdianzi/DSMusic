@@ -1,0 +1,10 @@
+//
+//  voice-Prefix.pch
+//  voice
+//
+//  Created by dasheng on 15/4/15.
+//  Copyright (c) 2015年 dasheng. All rights reserved.
+//
+
+#import <Availability.h>
+#import <UIKit/UIKit.h>
